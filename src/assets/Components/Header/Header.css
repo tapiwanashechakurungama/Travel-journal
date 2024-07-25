@@ -1,0 +1,32 @@
+.cont {
+  display: flex;
+  margin: 20px 5px;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-bottom: 1px rgb(90, 90, 90) solid;
+}
+
+.image {
+  width: 350px;
+}
+span {
+  color: red;
+}
+p {
+  width: 50rem;
+  font-weight: 600;
+}
+.colum {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+}
+.view{
+  opacity: 0.6;
+  text-decoration: underline;
+  color: black;
+}
